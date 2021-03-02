@@ -1,0 +1,11 @@
+model-k 25
+model-n 50
+knn-k 20
+dt-max_depth 10
+dt-min_num -1
+dt-k 10
+rf-n 3
+rf-k 10
+rf-forest_size 40
+ridge-lambda 0.1
+lasso-lambda 0.01
